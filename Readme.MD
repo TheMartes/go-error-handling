@@ -56,6 +56,6 @@ func (fn appHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 * then rewrite `http.HandleFunc()` to `http.Handle()` and wrap errorGiver to appHandler
 
 ---
-Presentation Could be found here: [Google Slides](https://docs.google.com/presentation/d/1PJH9xIYHuRr-cF9kixnmsebNMZMa82vcjVFNMqR5_-A/edit?usp=sharing) 
+Presentation can be found here: [Google Slides](https://docs.google.com/presentation/d/1PJH9xIYHuRr-cF9kixnmsebNMZMa82vcjVFNMqR5_-A/edit?usp=sharing) 
  
 Youtube Video: TBA
