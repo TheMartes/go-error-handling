@@ -8,7 +8,7 @@ if err != nil {
     log.Fatal(err)
 }
 ```
-Or throw new err directly `errors.New("msg")`
+Or throw new err directly `errors.New("msg")` / `fmt.Errorf("something")`
 
 
 ## 02 Predefined Errors
